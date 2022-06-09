@@ -13,7 +13,7 @@
             "required": true,
             "value":".,"
         },
-        "ANTILINK_WARN": {
+        "ANTILINK_WA RN": {
             "description": "Groups for antilink (JIDS)",
             "required": false,
             "value":"jid,jid"

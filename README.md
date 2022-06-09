@@ -181,7 +181,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 
        "SESSION": {
 
-            "description": "Your MD session",
+            "description": "YourMD session",
 
             "required": true
 
